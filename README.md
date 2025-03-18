@@ -1,0 +1,1 @@
+My implementation of backpropogation, gradient descent, and various other AI infrastructure components to develop a digit-reading AI. Trained on the MNIST data set for roughly 20 minutes, achieving a 94% accuracy on digit classification. Requires only eigen to compile.
